@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - 'Entry Point'
+ * main - Entry Point
  *
  * Description: C program that checks numbers with if else statement
  *
