@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
  * main - Entry Point
  *
- * Description: C program that checks numbers with if else statement
+ * Description - 'C program that checks numbers with if else statement'
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
