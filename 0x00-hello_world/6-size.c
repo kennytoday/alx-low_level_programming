@@ -2,8 +2,6 @@
 /**
  * main - Entry point
  *
- * Description - C program that prints various types of computers
- *
  * Return: Always 0 (Success)
  */
 
