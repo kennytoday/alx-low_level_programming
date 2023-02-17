@@ -2,10 +2,11 @@
 /**
  * main - Entry point
  *
- * Description - C program that prints various types of computers.
+ * Description - C program that prints various types of computers
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	char a;
@@ -20,5 +21,4 @@ int main(void)
 	printf("size of a long long int: %lu byte(s)\n", sizeof(d));
 	printf("size of a float: %lu byte(s)\n", sizeof(e));
 	return (0);
-
 }
