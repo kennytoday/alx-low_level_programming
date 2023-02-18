@@ -7,13 +7,13 @@
  *
  * Return: Always 0 (Success)
  */
-main(void)
+int main(void)
 {
-	char kd;
+	int A;
 
-	for (kd = "a"; kd <= "z"; kd++)
+	for (A = "a"; A <= "z"; A++)
 	{
-		putchar(kd);
+		putchar(A);
 	}
 	putchar("\n");
 	return (0);
