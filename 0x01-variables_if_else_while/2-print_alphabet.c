@@ -7,14 +7,14 @@
  *
  * Return: Always 0 (Success)
  */
-char main(void)
+int main(void)
 {
 	char kd;
 
 	for (kd = 'a'; kd <= 'z'; kd++)
 	{
-		putchar(kd);
+		int putchar(kd);
 	}
-	putchar("\n");
+	int putchar("\n");
 	return (0);
 }
