@@ -11,14 +11,8 @@ int main(void)
 {
 	char A;
 
-	A = "a";
-
-	while
-		(A <= "z")
-	{
+	for (A = 'a'; A <= 'z'; A)
 		putchar(A);
-		A++;
-	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
