@@ -5,7 +5,7 @@
  *
  * description - C program that prints standard output
  *
- * return: 1 (Success)
+ * Return: 1 (Success)
  */
 int main(void)
 {
