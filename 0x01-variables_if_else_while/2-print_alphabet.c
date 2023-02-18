@@ -11,7 +11,7 @@ int main(void)
 {
 	char kenny;
 
-	for (kenny = a; kenny <= z; kenny++)
+	for (kenny = 'a'; kenny <= 'z'; kenny++)
 	{
 		putchar(kenny);
 	}
