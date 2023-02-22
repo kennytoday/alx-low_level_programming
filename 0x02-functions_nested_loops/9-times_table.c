@@ -1,10 +1,7 @@
 #include "main.h"
 /**
- *
- *
- *
- *
- *
+ * times_table - Entry point
+ * @void: c program
  */
 void times_table(void)
 {
@@ -17,7 +14,7 @@ void times_table(void)
 			u = l * i;
 			if (l == 0)
 			{
-				_putchar('u + '0')
+				_putchar(u + '0')
 			}
 			if (u < 10 && l != 0)
 			{
