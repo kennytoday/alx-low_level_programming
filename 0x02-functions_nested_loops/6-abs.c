@@ -2,13 +2,12 @@
 /**
  * _abs - Entry point
  *
- * @int: absolute value
+ * @n: absolute value
  *
  * Return: always 0  value of int
  */
-int _abs(int)
+int _abs(int n)
 {
-	int n = 0;
 
 	if (n >= 0)
 	{
