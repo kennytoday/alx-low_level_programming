@@ -4,7 +4,7 @@
  * @int: program to add two integers
  * Return: Always 0
  */
-int add(int, int)
+int add()
 {
 	int a, b, c;
 
