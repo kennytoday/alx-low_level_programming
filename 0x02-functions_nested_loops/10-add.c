@@ -4,9 +4,9 @@
  * @int: program to add two integers
  * Return: Always 0
  */
-int add()
+int add(int a, int b)
 {
-	int a, b, c;
+	int c;
 
 	c = (a + b);
 	_putchar(c);
