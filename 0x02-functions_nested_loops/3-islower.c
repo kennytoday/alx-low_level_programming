@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
+ * _islower - Entry point
  *
- * Description - program to print lower case characters
+ * @c: program to print lower case characters
  *
  * Return: 1 if the character is lowercase, otherwise 0
  */

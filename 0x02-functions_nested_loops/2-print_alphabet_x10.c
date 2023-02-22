@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
+ * print_alphabet_x100 - Entry point
+ * @c: program that prints alphabets
  * Return: Always 0
  */
 
