@@ -7,9 +7,9 @@ void times_table(void)
 {
 	int i, l, u;
 
-	for (i = 0; i <= 10; i++)
+	for (i = 0; i < 10; i++)
 	{
-		for (l = 0; l <= 10; l++)
+		for (l = 0; l < 10; l++)
 		{
 			u = l * i;
 			if (l == 0)
