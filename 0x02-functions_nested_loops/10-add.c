@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * add - Entry point
- * @int: program to add two integers
+ * @a: program to add two integers
+ * @b: adding b
  * Return: Always 0
  */
 int add(int a, int b)
