@@ -4,7 +4,7 @@
  * print_most_numbers - Entry point
  * @void: C program
  */
-void more_most_numbers9void)
+void print_most_numbers(void)
 {
 	int i;
 
